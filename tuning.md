@@ -1,4 +1,4 @@
-# Training
+# Tuning
 
 ### Step-by-Step Guide to Fine-Tuning a GPT-2 Model on Your Data
 
